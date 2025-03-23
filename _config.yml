@@ -141,15 +141,10 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /:collection/:title/
 
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -190,6 +185,8 @@ exclude:
   - package-lock.json
   - _pages/blog.md
   - _posts/
+  - _news/
+  - _includes/news.liquid
   - _projects/
   - _pages/projects.md
   - _pages/group.md
