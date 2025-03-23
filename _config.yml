@@ -192,6 +192,7 @@ exclude:
   - _posts/
   - _projects/
   - _pages/projects.md
+  - _pages/group.md
   - assets/jupyter/blog.ipynb
   - purgecss.config.js
   - README.md
