@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-  Assistant Professor at <a href='https://www.ece.uw.edu/'>University of Washington, ECE Department</a>.
-  Adjunct Professor at <a href='https://www.cs.washington.edu/'>University of Washington, CSE Department</a>. 
+  Assistant Professor at <a href='https://www.ece.uw.edu/'>University of Washington, ECE Department</a>.<br>
+  Adjunct Professor at <a href='https://www.cs.washington.edu/'>University of Washington, CSE Department</a>.<br>
   Cofounder at <a href='https://nexusflow.ai/'>Nexusflow AI</a>.  
 
 profile:
