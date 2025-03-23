@@ -9,7 +9,7 @@ subtitle:
 
 profile:
   align: right
-  image: banghua.jpg
+  image: bio.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
