@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://bhz-ber.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://banghua.me/sitemap.xml
