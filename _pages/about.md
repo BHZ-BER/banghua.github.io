@@ -23,5 +23,4 @@ I'm an incoming assistant professor at UW ECE, with adjunct appointments in CSE.
 
 I co-founded Nexusflow AI since 2023. We are dedicated to provide reliable LLM solutions for enterprise use-cases. 
 
-
-# I'm recruiting PhD students! Please mention my name in the application of UW ECE / CSE if you'd like to work with me on LLM, game theory and / or reinforcement learning!
+I'm currently interested in the training, serving, evaluation, and applications of foundation models. I have also been working on statistics, information theory and machine learning, with applications on game theory, robust statistics, reinforcement learning and human-AI interactions.
