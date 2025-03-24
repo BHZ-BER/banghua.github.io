@@ -71,7 +71,7 @@ I'm currently interested in the **theoretical foundations, training, serving, ev
 
 - **Model Routing and Caching:** 
   We analyze and propose near-optimal algorithms for caching and model multiplexing for serving large models, significantly enhancing the efficiency of inference in LLMs [[*Z*SZBJJ23](https://arxiv.org/abs/2306.02003)].
-- **S-Lora**  
+- **S-Lora:**
   We also proposed [S-Lora](https://arxiv.org/abs/2311.03285),  the algorithm and framework for serving thousands of LoRA adaptors. 
 
 ---
