@@ -2,15 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Banghua Zhu # the website title (if blank, full name will be used instead)
+title: The Homepage of Banghua Zhu # the website title (if blank, full name will be used instead)
 first_name: Banghua
 middle_name: 
 last_name: Zhu
 contact_note: >
  Contact me via myfirstname@uw.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The personal homepage of Banghua Zhu, assistant professor at UW and co-founder at Nexusflow.
-footer_text: >
+description: The personal homepage of Banghua Zhu, assistant professor at UW and co-founder at Nexusflow.
+footer_text: The personal homepage of Banghua Zhu, assistant professor at UW and co-founder at Nexusflow.
 keywords: LLM, AI, artificial intelligence, foundation models, Banghua Zhu, University of Washington, Nexusflow # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
